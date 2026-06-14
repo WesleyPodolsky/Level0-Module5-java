@@ -44,17 +44,20 @@ public class AmazingRings extends PApplet {
 
     @Override
     public void settings() {
-
+    
     }
 
     @Override
     public void setup() {
-
+    size(600,400);
+    noFill();
     }
 
     @Override
     public void draw() {
-
+    	for(int i = 0; i<10; i++) {
+    		ellipse(200,200,50*i,50*i);
+    	}
     }
 
     static public void main(String[] args) {
