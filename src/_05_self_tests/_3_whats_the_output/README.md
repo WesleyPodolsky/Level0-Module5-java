@@ -17,6 +17,7 @@ class MyJavaProgram{
 		System.out.println("Tacos");
 	}
 }
+Tacos
 
 2.
 class MyJavaProgram{
@@ -25,6 +26,7 @@ class MyJavaProgram{
 		System.out.println(book);
 	}
 }
+Cat in the Hat
 
 3.
 class MyJavaProgram{
@@ -33,6 +35,7 @@ class MyJavaProgram{
 		System.out.println(book + " " + book);
 	}
 }
+Frankenstein Frankenstein
 
 4.
 class MyJavaProgram{
@@ -41,6 +44,7 @@ class MyJavaProgram{
 		System.out.println("book");
 	}
 }
+book
 
 5.
 class MyJavaProgram{
@@ -49,6 +53,7 @@ class MyJavaProgram{
 		System.out.println(i);
 	}
 }
+5
 
 6.
 class MyJavaProgram{
@@ -58,6 +63,7 @@ class MyJavaProgram{
 		System.out.println(x + y);
 	}
 }
+3
 
 7.
 class MyJavaProgram{
@@ -72,6 +78,7 @@ class MyJavaProgram{
 		}
 	}
 }
+FOUR
 
 8.
 class MyJavaProgram{
@@ -89,6 +96,8 @@ class MyJavaProgram{
 
 	}
 }
+CLICK
+CLICK
 
 9.
 class MyJavaProgram{
@@ -111,6 +120,8 @@ class MyJavaProgram{
 
 	}
 }
+1
+4
 
 10.
 class MyJavaProgram{
@@ -130,6 +141,9 @@ class MyJavaProgram{
 		}
 	}
 }
+0
+1
+2
 
 11.
 class MyJavaProgram{
@@ -141,6 +155,8 @@ class MyJavaProgram{
 		System.out.print(y);
 	}
 }
+X
+Y
 
 12.
 class MyJavaProgram{
@@ -152,6 +168,7 @@ class MyJavaProgram{
 		System.out.print(c + a + b);
 	}
 }
+CAB
 
 13.
 class MyJavaProgram{
@@ -163,6 +180,7 @@ class MyJavaProgram{
 		System.out.print(c + a + b);
 	}
 }
+ACB
 
 14.
 class MyJavaProgram{
@@ -172,6 +190,7 @@ class MyJavaProgram{
 		}
 	}
 }
+01234
 
 15.
 class MyJavaProgram{
@@ -181,6 +200,12 @@ class MyJavaProgram{
 		}
 	}
 }
+5
+4
+3
+2
+1
+0
 
 16.
 class MyJavaProgram{
@@ -191,6 +216,12 @@ class MyJavaProgram{
 		}
 	}
 }
+horse
+horse
+horse
+horse
+horse
+horse
 
 17.
 class MyJavaProgram{
@@ -202,6 +233,13 @@ class MyJavaProgram{
 		System.out.println(d);
 	}
 }
+5
+4
+3
+2
+1
+0
+dynomite
 
 18.
 class MyJavaProgram{
@@ -213,6 +251,7 @@ class MyJavaProgram{
 		}
 	}
 }
+0, 2, 4, 6, 8, 19, 12, 14, 16, 18, 
 
 19.
 class MyJavaProgram{
@@ -224,6 +263,7 @@ class MyJavaProgram{
 		System.out.println(count);
 	}
 }
+count5 count4 count3 count2 count1 count0 
 
 20.
 class MyJavaProgram{
@@ -237,6 +277,7 @@ class MyJavaProgram{
 		}
 	}
 }
+0, 7, 14, 21, 
 
 SUBMIT YOUR ANSWERS
 ```
